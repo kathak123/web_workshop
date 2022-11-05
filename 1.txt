@@ -1,0 +1,18 @@
+env safe---
+check whatr is express and node
+process, environment variables
+
+// callback is a lambda function
+node js is single threaded
+back end in single thread not possible
+
+event loop in node js
+multithreading is hangked by os it is given to the os to work not node js
+callbacks
+promise
+
+headersin network inspect
+destructuring in js
+
+thunder client for post request similar to postman
+
